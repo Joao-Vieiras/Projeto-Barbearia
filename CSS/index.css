@@ -1,0 +1,9 @@
+.ocupa-toda-pagina {
+    height: 100vh;
+}
+
+#foto-barbeiro {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

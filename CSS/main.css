@@ -1,0 +1,23 @@
+@import url('reset.css');
+@import url('fonts.css');
+
+
+header {
+    background-color: #808080;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    
+}
+
+ol {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin: 0px 0px 0px 15px;
+}
